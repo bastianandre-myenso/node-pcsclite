@@ -38,6 +38,7 @@
     "test": "test"
   },
   "files": [
+    "prebuilt/**/*.node",
     "lib/pcsclite.js",
     "src/*.h",
     "src/*.cpp",
