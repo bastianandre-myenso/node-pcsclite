@@ -52,7 +52,7 @@
     "test": "mocha --exit"
   },
   "dependencies": {
-    "nan": "^2.19.0"
+    "nan": "^2.21.0"
   },
   "devDependencies": {
     "mocha": "^10.2.0",
